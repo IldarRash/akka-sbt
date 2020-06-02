@@ -2,6 +2,7 @@ package com.example.akka
 
 import akka.actor.{ActorSystem, Props}
 import akka.testkit.{TestActorRef, TestKit}
+import com.example.akka.testDriven.{SendingActor, SilentActor}
 import org.scalatest.{MustMatchers, WordSpec, WordSpecLike}
 
 import scala.util.Random

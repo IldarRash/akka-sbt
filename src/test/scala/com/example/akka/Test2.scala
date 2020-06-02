@@ -2,6 +2,7 @@ package com.example.akka
 
 import akka.actor.{ActorSystem, Props}
 import akka.testkit.{TestActorRef, TestKit}
+import com.example.akka.testDriven.FilteringActor
 import org.scalatest.{MustMatchers, WordSpecLike}
 
 class Test2 extends TestKit(ActorSystem("testSystem"))
