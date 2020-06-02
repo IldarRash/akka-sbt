@@ -1,0 +1,3 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/ildar/IdeaProjects/akka-sbt/project/"), "akka-sbt-build")...
+[debug] Done updating ProjectRef(uri("file:/home/ildar/IdeaProjects/akka-sbt/project/"), "akka-sbt-build")
